@@ -11,10 +11,12 @@ I am currently a PhD student at Zhejiang University, with my primary research fo
 
 # Educational Background
 
-<p align="right">2020.9~2024.6</p>   <p align="right">Zhejiang University</p>    <p align="left">Bachelor</p>
-<p align="right">2024.9~now</p>   <p align="right">Zhejiang University</p>    <p align="left">PHD</p>
+2020.9~2024.6  &emsp;  Zhejiang University  &emsp;  Bachelor
+
+2024.9~now  &emsp; &ensp; &nbsp; Zhejiang University  &emsp;  PHD
 
 # Personal Honors
 
-Certificate of Chu Kochen Honors Program Zhejiang University
-Outstanding Graduates of Zhejiang University
+- Certificate of Chu Kochen Honors Program Zhejiang University
+
+- Outstanding Graduates of Zhejiang University
