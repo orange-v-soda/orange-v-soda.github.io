@@ -11,9 +11,10 @@ I am currently a PhD student at Zhejiang University, with my primary research fo
 
 # Educational Background
 
-2020.9~2024.6  &emsp;  Zhejiang University  &emsp;  Bachelor
-
-2024.9~now  &emsp; &ensp; &nbsp; Zhejiang University  &emsp;  PHD
+| Duration | University | Degree |
+|:------:|:------:|:------:|
+|2020.9~2024.6|Zhejiang University|Bachelor|
+|2024.9~now|Zhejiang University|PHD|
 
 # Personal Honors
 
